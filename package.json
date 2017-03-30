@@ -1,15 +1,15 @@
 {
-  "name": "storyblok-electron",
-  "productName": "Storyblok",
-  "description": "Storyblok",
+  "name": "fallenbreath-electron",
+  "productName": "FallenBreath",
+  "description": "FallenBreath",
   "version": "1.0.0",
-  "author": "Dominik Angerer <da@storyblok.com>",
-  "copyright": "© 2017, Storyblok",
-  "homepage": "https://www.storyblok.com",
+  "author": "Dominik Angerer <me@dominikangerer.com>",
+  "copyright": "© 2017, DominikAngerer",
+  "homepage": "https://fallenbreath.com/",
   "license": "MIT",
   "main": "app/background.js",
   "build": {
-    "appId": "com.storyblok.app",
+    "appId": "com.fallenbreath.app",
     "files": [
       "app/**/*",
       "node_modules/**/*",
